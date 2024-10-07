@@ -19,7 +19,7 @@ namespace assignment9
 
         public void CreateAccount(string accountHolder)
         {
-            BankAccount[count] = accountHolder;
+            
         }
     }
 }
